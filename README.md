@@ -19,5 +19,9 @@
  - [filters-css](https://www.cssfilters.co/)
  - [animxyz](https://animxyz.com/)
  - [beautiful-css-buttons](https://getcssscan.com/css-buttons-examples)
+ - [get-waves](https://getwaves.io/)
+ - [readme-io](https://readme.so/)
+ - [shaped-divider](https://www.shapedivider.app/)
+ - [haikei](https://app.haikei.app/)
 
 
