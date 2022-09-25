@@ -24,5 +24,6 @@
  - [github-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
  - [shaped-divider](https://www.shapedivider.app/)
  - [haikei](https://app.haikei.app/)
+ - [css-clip-path-maker](https://bennettfeely.com/clippy/)
 
 
