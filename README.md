@@ -21,6 +21,7 @@
  - [beautiful-css-buttons](https://getcssscan.com/css-buttons-examples)
  - [get-waves](https://getwaves.io/)
  - [readme-io](https://readme.so/)
+ - [github-profile-readme-generator](https://readme.so/)
  - [shaped-divider](https://www.shapedivider.app/)
  - [haikei](https://app.haikei.app/)
 
