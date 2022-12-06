@@ -25,5 +25,6 @@
  - [shaped-divider](https://www.shapedivider.app/)
  - [haikei](https://app.haikei.app/)
  - [css-clip-path-maker](https://bennettfeely.com/clippy/)
+ - [dumy-images-generator](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 
 
