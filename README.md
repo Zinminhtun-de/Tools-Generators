@@ -29,5 +29,7 @@
  - [beautiful-box-shadow](https://getcssscan.com/css-box-shadow-examples)
  - [css-generator-tool](https://cssgenerator.org/)
  - [meta-tags](https://metatags.io/)
+ - [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+ - [css-transform](https://css-transform.moro.es/)
 
 
