@@ -41,6 +41,8 @@
  - [kaboomjs](https://kaboomjs.com/)
  - [3dicons](https://3dicons.co/)
  - [hamburgers](https://jonsuh.com/hamburgers/)
+ - [apvarun-toastify](https://apvarun.github.io/toastify-js/#)
+
 
 
 
