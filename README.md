@@ -38,7 +38,9 @@
  - [tools](https://10015.io/)
  - [animated-backgrounds](https://animatedbackgrounds.me/)
  - [kaboomjs](https://kaboomjs.com/)
- - [patternpad](https://patternpad.com/)
+ - [3dicons](https://3dicons.co/)
+
+
 
 
 
