@@ -21,6 +21,7 @@
  - [beautiful-css-buttons](https://getcssscan.com/css-buttons-examples)
  - [get-waves](https://getwaves.io/)
  - [readme-io](https://readme.so/)
+ - [dillinger](https://dillinger.io/)
  - [github-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
  - [shaped-divider](https://www.shapedivider.app/)
  - [haikei](https://app.haikei.app/)
@@ -32,5 +33,9 @@
  - [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
  - [css-transform](https://css-transform.moro.es/)
  - [codebeautify]( https://codebeautify.org/)
+ - [json-generator](https://json-generator.com/)
+ - [conventer](https://nekocalc.com/)
+
+
 
 
