@@ -43,7 +43,7 @@
  - [hamburgers](https://jonsuh.com/hamburgers/)
  - [apvarun-toastify](https://apvarun.github.io/toastify-js/#)
  - [css-animation-generator](https://www.doozytools.com/dev-tools/css-animation-generator)
- - [FFFUEL](https://fffuel.co/)
+ - [fffuel](https://fffuel.co/)
 
 
 
